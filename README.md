@@ -1,5 +1,6 @@
 # Prediction of Heart Disease
-![heart](https://user-images.githubusercontent.com/81169091/119009637-9ec56600-b993-11eb-8d8e-791c8be74bb5.jpg)
+
+![burger](https://images.unsplash.com/photo-1571805618149-3a772570ebcd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
 Heart disease is one of the leading cause of death in the Unites States. The Dataset I have used is available in the UCI, Machine Learning Repository (This is also available in Kaggle). 
 
