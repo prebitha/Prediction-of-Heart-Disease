@@ -28,5 +28,5 @@ Here is the Summary of the Columns in the Dataset:
 ### MACHINE LEARNING 
 
 I import the data into jupyter notebook and then work on the EDA and realised that the dataset was fairly clean with no null values or duplicates with standardised column headers and therfore i proceeded to check for outliers and then removed them using IQRS
+[link](https://www.notion.so/Medium-Post-7371f905f4f94b5e9b7ee4137455662e#2a3e1a3c41534c93b750cae729fa63f5)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc71d8e4-6e7f-49ab-b7f1-54c0c380d027/newplot.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc71d8e4-6e7f-49ab-b7f1-54c0c380d027/newplot.png)
