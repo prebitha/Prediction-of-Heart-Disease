@@ -1,4 +1,5 @@
 # Prediction of Heart Disease
+![heart](https://user-images.githubusercontent.com/81169091/119009637-9ec56600-b993-11eb-8d8e-791c8be74bb5.jpg)
 
 Heart disease is one of the leading cause of death in the Unites States. The Dataset I have used is available in the UCI, Machine Learning Repository (This is also available in Kaggle). 
 
@@ -66,7 +67,10 @@ I choose the best model on the F1 score and visulaised the confusion matrix alon
 ### CONCLUSION :
 
 My ideal Model is the Logistic Regression using Robust Scaler. 
+
+- [X] AREA UNDER THE CURVE
 ![AUC_LR_RS](https://user-images.githubusercontent.com/81169091/119008602-9caed780-b992-11eb-8e5b-b1e9a7ecc576.png)
+- [X] CONFUSION MATRIX 
 ![confucion matrix - LR_RS](https://user-images.githubusercontent.com/81169091/119008606-9d476e00-b992-11eb-9e48-f31c790b8375.png)
 
 As you can see this model has predicted all the Heart disease outcomes better.
