@@ -3,7 +3,7 @@
 
 Heart disease is one of the leading cause of death in the Unites States. The Dataset I have used is available in the UCI, Machine Learning Repository (This is also available in Kaggle). 
 
-# ABOUT THE DATASET
+## ABOUT THE DATASET About the Dataset
 
 First I did my Study on the Dataset using Tableau. Please go through this inorder to understand the dataset better [ tableau link here ](https://public.tableau.com/profile/prebitha.staphney.abraham#!/vizhome/HeartDiseaseDatasetStudy/cardiaccatheterization?publish=yes)
 
@@ -28,12 +28,12 @@ Here is the Summary of the Columns in the Dataset:
 |  output           | Target variable                                                                                |
 
 
-###### DATA CLEANING AND DATA WRANGLING 
+## DATA CLEANING AND DATA WRANGLING 
 
 I import the data into jupyter notebook and then work on the EDA and realised that the dataset was fairly clean with no null values or duplicates with standardised column headers and therfore i proceeded to check for outliers and then removed them using IQRS
 ![newplot](https://user-images.githubusercontent.com/81169091/119006536-c404a500-b990-11eb-8b51-1cdf3cb77144.png)
 
-###### MACHINE LEARNING 
+## MACHINE LEARNING 
 Here begins the Machine learning: 
 
 I define the categorical and numerical columns so that I can label encode and scale them respectively.
@@ -54,7 +54,7 @@ I carried out a few iterations on these 3 Models:
  
  ![newplot (2)](https://user-images.githubusercontent.com/81169091/119009105-1777f280-b993-11eb-9507-5b118493184f.png)
  
-###### VALIDATION :
+## VALIDATION :
 
 To validate the Models I used :
  - 1. Acuracy
@@ -65,7 +65,7 @@ To validate the Models I used :
  
 I choose the best model on the F1 score and visulaised the confusion matrix along with the Area under the curve.
 
-###### CONCLUSION :
+## CONCLUSION :
 
 My ideal Model is the Logistic Regression using Robust Scaler. 
 
@@ -79,7 +79,7 @@ My ideal Model is the Logistic Regression using Robust Scaler.
 
 As you can see this model has predicted all the Heart disease outcomes better.
 
-###### PREDICTOR FUNCTION
+## PREDICTOR FUNCTION
 
 After the walkthrough my codes I decided to write a Predictor Function for my Final Presentation and for this I use the Logistic Regression Model using Robust Scaler with Feature Selection.
 who better to run the prediction on than myself, so here it is !!
