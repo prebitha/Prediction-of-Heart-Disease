@@ -69,8 +69,11 @@ I choose the best model on the F1 score and visulaised the confusion matrix alon
 My ideal Model is the Logistic Regression using Robust Scaler. 
 
 - [X] AREA UNDER THE CURVE
+
 ![AUC_LR_RS](https://user-images.githubusercontent.com/81169091/119008602-9caed780-b992-11eb-8e5b-b1e9a7ecc576.png)
+
 - [X] CONFUSION MATRIX 
+
 ![confucion matrix - LR_RS](https://user-images.githubusercontent.com/81169091/119008606-9d476e00-b992-11eb-9e48-f31c790b8375.png)
 
 As you can see this model has predicted all the Heart disease outcomes better.
