@@ -77,3 +77,12 @@ My ideal Model is the Logistic Regression using Robust Scaler.
 ![confucion matrix - LR_RS](https://user-images.githubusercontent.com/81169091/119008606-9d476e00-b992-11eb-9e48-f31c790b8375.png)
 
 As you can see this model has predicted all the Heart disease outcomes better.
+
+### PREDICTOR FUNCTION
+
+After the walkthrough my codes I decided to write a Predictor Function for my Final Presentation and for this I use the Logistic Regression Model using Robust Scaler with Feature Selection.
+who better to run the prediction on than myself, so here it is !!
+![2021-05-19 (2)](https://user-images.githubusercontent.com/81169091/119011178-15169800-b995-11eb-90a2-ae58ae8916a9.png)
+
+
+voila !! now I can go get that burger !!
