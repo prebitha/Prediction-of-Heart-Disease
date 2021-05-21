@@ -84,7 +84,8 @@ As you can see this model has predicted all the Heart disease outcomes better.
 
 After the walkthrough my codes I decided to write a Predictor Function for my Final Presentation and for this I use the Logistic Regression Model using Robust Scaler with Feature Selection.
 who better to run the prediction on than myself, so here it is !!
-![2021-05-19 (2)](https://user-images.githubusercontent.com/81169091/119011178-15169800-b995-11eb-90a2-ae58ae8916a9.png)
+![2021-05-21 (2)](https://user-images.githubusercontent.com/81169091/119125959-b43d9d00-ba32-11eb-8add-72b53f0c73de.png)
+
 
 
 voila !! now I can go get that burger !!
